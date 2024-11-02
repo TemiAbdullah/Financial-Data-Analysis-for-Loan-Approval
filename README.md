@@ -1,0 +1,2 @@
+Scenario: A bank has provided a dataset containing information about past loan applicants. The dataset includes features such as application date, credit score, income, loan amount, employment status, outstanding debt, employment start date, and loan outcome (approved or denied).
+The task is to analyze the historical loan data and create a model that predicts whether a future loan application should be approved or denied.
